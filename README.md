@@ -1,15 +1,14 @@
-##Giriş ekranı
+## Giriş ekranı
 ![Açıklama](1.jpg)
-)
-##Kayıt ekranı
+## Kayıt ekranı
 ![Açıklama](2.jpg)
-)
-##Şifremi Unuttum Ekranı
+
+## Şifremi Unuttum Ekranı
 ![Açıklama](3.jpg)
-)
-##Başarılı Giriş Ekranı
+
+## Başarılı Giriş Ekranı
 ![Açıklama](4.jpg)
-)
+
 
 
 
